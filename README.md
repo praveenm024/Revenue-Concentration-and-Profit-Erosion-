@@ -38,8 +38,7 @@ The companies main database structure as seen below consists of Seven tables: Fa
 <img width="1032" height="807" alt="Screenshot 2026-02-08 154218" src="https://github.com/user-attachments/assets/3584ff3f-9001-4443-bcbd-df62dbcccfee" />
 
 
-Prior to beginning the analysis,a verity of checks were conducted for quality conrtol and familiarization with the dataset.
-The SQL queries utilized to inspect and perform data quality checks can be forund here
+
 
 ---
 
