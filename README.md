@@ -20,7 +20,7 @@ Leadership raised concerns that while revenue appeared stable or growing, **unde
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [Data_quality_checks](https://github.com/praveenm024/Revenue-Concentration-and-Profit-Erosion-/blob/b8c1973d32900505bf79b7c1d0a3e591ee4878ff/01_data_quality_checks.sql)&[Data_cleaning_Prepration](https://github.com/praveenm024/Revenue-Concentration-and-Profit-Erosion-/blob/b8c1973d32900505bf79b7c1d0a3e591ee4878ff/02_data_cleaning_preparation.sql)
 
-An interactive power bi  dashboard used to report and explore  trends can be found here [link](https://github.com/praveenm024/Revenue-Concentration-and-Profit-Erosion-/blob/b8c1973d32900505bf79b7c1d0a3e591ee4878ff/revenue%20concentration%20and%20profit%20erosion.pbix)  
+An interactive power bi  dashboard used to report and explore  trends can be found here [link](https://github.com/praveenm024/Revenue-Concentration-and-Profit-Erosion-/blob/164bad546b388ea40a045d81141f053ff13ba488/revenue%20concentration%20and%20profit%20erosion.pbix) 
  
 ---
 
