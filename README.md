@@ -18,9 +18,9 @@ Leadership raised concerns that while revenue appeared stable or growing, **unde
 - **Profit Erosion:** Tracking margin trends to detect declining profitability despite steady revenue.
 - **Product Profitability:** Highlighting high-revenue products with weak margins that pose sustainability risks.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link]
+The SQL queries used to inspect and clean the data for this analysis can be found here [Data_quality_checks](https://github.com/praveenm024/Revenue-Concentration-and-Profit-Erosion-/blob/b8c1973d32900505bf79b7c1d0a3e591ee4878ff/01_data_quality_checks.sql)&[Data_cleaning_Prepration](https://github.com/praveenm024/Revenue-Concentration-and-Profit-Erosion-/blob/b8c1973d32900505bf79b7c1d0a3e591ee4878ff/02_data_cleaning_preparation.sql)
 
-An interactive power bi  dashboard used to report and explore  trends can be found here [link]  
+An interactive power bi  dashboard used to report and explore  trends can be found here [link](https://github.com/praveenm024/Revenue-Concentration-and-Profit-Erosion-/blob/b8c1973d32900505bf79b7c1d0a3e591ee4878ff/revenue%20concentration%20and%20profit%20erosion.pbix)  
  
 ---
 
