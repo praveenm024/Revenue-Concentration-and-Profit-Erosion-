@@ -26,7 +26,7 @@ An interactive power bi  dashboard used to report and explore  trends can be fou
 
 ## 🗄️ Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of Seven tables: FactInternetSales, DimProduct ,DimProductCategory,DimProductSubCategory,DimCustomers,DimGeoraphy,DimDates, with a total row count of 60398 records.
+The companies main database structure as seen below consists of Seven tables: FactInternetSales, DimProduct ,DimProductCategory,DimProductSubCategory,DimCustomers,DimGeoraphy,DimDates, with a total row count of 60,398 records.
 
 ### Initial Data Validation Steps
 - Verified row-level profit calculation logic  
@@ -46,11 +46,12 @@ The companies main database structure as seen below consists of Seven tables: Fa
 
 ### Revenue Concentration
 The Risk: 28% of customers = 80% of revenue ($23M of $29M)
+
 Three Concentration Points:
 
-Products: Top 10 products = 43% of revenue (Mountain bikes dominant)
-Markets: US + Australia = $18.3M (63% of total)
-Customers: VIP + Premium segments = $18.6M (64% of total)
+- Products: Top 10 products = 43% of revenue (Mountain bikes dominant)
+- Markets: US + Australia = $18.3M (63% of total)
+- Customers: VIP + Premium segments = $18.6M (64% of total)
 
 Implication: Losing any top customer or market creates immediate revenue vulnerability
 
