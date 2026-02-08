@@ -59,11 +59,12 @@ Implication: Losing any top customer or market creates immediate revenue vulnera
 
 
 ### Profit Erosion
-Current State: $12M profit at 41% margin
-The Problem: Product mix shifted to lower-margin categories in Q1 2025
+- Current State: $12M profit at 41% margin
+  
+**The Problem:**  Product mix shifted to lower-margin categories in Q1 2025
 
-Bikes: 38-45% margins (high performers)
-Accessories: 23-63% margins (dragging overall margin down)
+- Bikes: 38-45% margins (high performers)
+- Accessories: 23-63% margins (dragging overall margin down)
 
 2025 recovery shows revenue outpacing costs (Q1: $0.9M → Q2: $3.8M revenue growth vs $1.4M → $2.7M cost growth)
 
@@ -130,7 +131,7 @@ Accessories: 23-63% margins (dragging overall margin down)
 
 ## ✅ Recommendations
 
-- Boosted accessory profitability by bundling low-margin accessories with high-margin bikes, increasing AOV by 15–25%, improving accessory margins to ~32–35%, reducing slow-moving inventory, and driving an estimated $300–400K annual profit uplift.
+- Boosted accessory profitability by bundling low-margin accessories with high-margin bikes, increasing AOV by 15–25%, improving accessory margins to ~32–35%, reducing slow-moving inventory, and driving an estimated $300–400K annual profit uplift.Track the  accessories products market performance befor discontinuing low to zero sales product.
 
 - Implemented a tiered, margin-protected loyalty program that targeted the top 28% of customers driving 80% of revenue, improved VIP retention to ~95%, upsold high-margin bikes, cleared low-margin inventory, and delivered a projected $2–3M revenue lift while maintaining 41%+ margins.
 
